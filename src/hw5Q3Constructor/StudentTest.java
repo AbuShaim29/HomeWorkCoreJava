@@ -1,4 +1,4 @@
-package hw5Q3;
+package hw5Q3Constructor;
 
 public class StudentTest {
 

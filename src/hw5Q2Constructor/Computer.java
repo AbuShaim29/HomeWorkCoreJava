@@ -2,7 +2,7 @@ package hw5Q2Constructor;
 
 
 public class Computer {
-	//testing
+	
 	// variable declare
 	public String brand;
 	public String model;
